@@ -1,0 +1,3 @@
+[2023-09-25 10:38:29] [WARNING]: 转换消息 [CQ:at,subType=all] 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax. 
+[2023-09-25 18:41:06] [WARNING]: 警告: 群 87879603 图片上传失败: image type error: text/html; charset=utf-8 
+[2023-09-25 18:41:07] [WARNING]: 转换消息 [CQ:image,file=https://www.diving-fish.com/covers/00214.png] 到MiraiGo Element时出现错误: context deadline exceeded (Client.Timeout or context cancellation while reading body). 
